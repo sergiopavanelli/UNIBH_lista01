@@ -1,0 +1,6 @@
+A = input("Informe o valor de A: ")
+B = input("Informe o valor de B: ")
+C = input("Informe o valor de C: ")
+D = input("Informe o valor de D: ")
+DIFERENCA = (int(A)*int(B) - int(C)*int(D))
+print ("DIFERENCA =", DIFERENCA)
